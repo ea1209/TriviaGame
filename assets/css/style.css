@@ -1,0 +1,43 @@
+body {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	color: black;
+}
+
+#quizArea {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	background-image: url("../images/front.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+h1 {
+	font-size: 90px;
+	font-family: comic;
+
+}
+h3 {
+	font-size: 35px;
+	font-family: comic;
+}
+h4 {
+	font-size: 25px;
+	font-family: comic;
+}
+
+.answers {
+	padding: 10px;
+	font-size: 15px;
+	margin-left: 15px;
+}
+
+#score {
+	float: right;
+	padding: 10px;
+	border: solid 5px;
+
+}
